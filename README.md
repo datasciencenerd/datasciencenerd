@@ -121,10 +121,9 @@ If you have any querry just DM us
 ## Reach us
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>If you have any querry just DM us</b> 😊
 
-- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:comm.datascience@gmail.com)
-- [<img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20" height="20"/>](https://www.instagram.com/datascience.nerd/)
+- [<img target="_blank" src="https://www.flaticon.com/svg/static/icons/svg/732/732026.svg" width="20" height="20"/>](mailto:comm.datascience@gmail.com): Gmail <br>
+- [<img target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20" height="20"/>](https://www.instagram.com/datascience.nerd/): Instagram 
 
-datasciencenerd
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=datasciencenerd&show_icons=true&theme=tokyonight" alt="datasciencenerd" />
